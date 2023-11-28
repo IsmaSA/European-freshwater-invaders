@@ -20,10 +20,6 @@ Please, in case you are interested in using it and/or suggest changes please sen
 ### Reproducible Code:
 - <code>European_Freshwater.R</code>
 
-[<img target="_blank" alt="Ismael Soto | Mail" width="90px" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail] 
-
-[mail]: mailto:isma-sa@hotmail.com
-
 
 
 <img align="right" src="icons/Logo_(with_name)_of_University_of_South_Bohemia.svg (2).png" width="300" style="margin-top: 80px">                                                                                    
