@@ -3,9 +3,9 @@
 # European Freshwater invaders database v1.0
 ## Owners: <a href="https://www.jcu.cz/en/university/staff/person?identita=KOUBA_Antonin_32859">Prof. Antonin Kouba</a> & <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a>
 
-### University of South Bohemia Ceske Budejovice
+### University of South Bohemia in Ceske Budejovice
 
-## Description
+### Description
 The European freshwater invaders database contain the species introduced to Europe with several descriptors for each entry.
 
 Please, in case you are interested in using it and/or suggest changes please send an email to Prof. A. Kouba (akouba@frov.jcu.cz) & I. Soto (isma-sa@hotmail.com)
