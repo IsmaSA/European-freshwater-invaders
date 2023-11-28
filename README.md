@@ -1,4 +1,4 @@
-<img align="right" src="Icons/InvaCostLogoIdea10.jpg" width="150" style="margin-top: 40px">
+<img align="right" src="icons/database.png" width="200" style="margin-top: 800px">
 
 # European Freshwater invaders database v1.0
 ## Owners: <a href="https://www.jcu.cz/en/university/staff/person?identita=KOUBA_Antonin_32859">Prof. Antonin Kouba</a> & <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a>
@@ -26,5 +26,5 @@ Database used:
 
 
 
-<img align="right" src="Icons/Logo_(with_name)_of_University_of_South_Bohemia.svg.png" width="300" style="margin-top: 80px">                                                                                    
- <img align="right" src="Icons/descarga.png" width="300" style="margin-top: 80px">
+<img align="right" src="icons/Logo_(with_name)_of_University_of_South_Bohemia.svg (2).png" width="300" style="margin-top: 80px">                                                                                    
+ <img align="right" src="icons/descarga (2).png" width="300" style="margin-top: 80px">
